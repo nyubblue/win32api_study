@@ -1,0 +1,12 @@
+﻿  GuiManagement.cpp
+  MainWindow.cpp
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(172,9): error C2360: initialization of 'idx' is skipped by 'case' label
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(168): message : see declaration of 'idx'
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(176,9): error C2360: initialization of 'idx' is skipped by 'case' label
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(168): message : see declaration of 'idx'
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(179,9): error C2360: initialization of 'idx' is skipped by 'case' label
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(168): message : see declaration of 'idx'
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(182,9): error C2360: initialization of 'idx' is skipped by 'case' label
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(168): message : see declaration of 'idx'
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(186,9): error C2361: initialization of 'idx' is skipped by 'default' label
+C:\Users\Admin\Documents\workspace\GuiManagement\GuiManagement\MainWindow.cpp(168): message : see declaration of 'idx'

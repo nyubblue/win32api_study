@@ -1,0 +1,7 @@
+﻿  GuiManagement.cpp
+  MainWindow.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GuiManagement.vcxproj -> C:\Users\Admin\Documents\workspace\GuiManagement\x64\Release\GuiManagement.exe
